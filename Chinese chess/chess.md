@@ -96,3 +96,4 @@ python chess.py
 可以玩
 
 ss
+ss
